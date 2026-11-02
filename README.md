@@ -1,4 +1,4 @@
-# Geodiversity Bias in Open Image Datasets (CA2)
+# Geodiversity Bias in Open Image Datasets 
 
 ## About this project
 This is my CA2 submission, which critically reviews Shankar et al. (2017), "No Classification without Representation: Assessing Geodiversity Issues in Open Data Sets for the Developing World". The paper looks at whether ImageNet and Open Images, two datasets widely used to train vision models, represent the world fairly.
